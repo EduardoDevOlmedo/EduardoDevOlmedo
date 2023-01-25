@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/eduardovevolmedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduardovevolmedo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-antonio-mojica-013858215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-antonio-mojica-013858215/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/edev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="edev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15946835/edev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="edev" height="30" width="40" /></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoDevOlmedo&show_icons=true&theme=radical)
