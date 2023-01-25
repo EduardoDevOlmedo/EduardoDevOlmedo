@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 👨‍💻 All of my projects are available at [https://iameduardolmedo.netlify.app/](https://iameduardolmedo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iameduardolmedo.netlify.app/](https://eduardolmedo.netlify.app)
 
 - 💬 Ask me about **React, Express, CSS, SASS**
 
